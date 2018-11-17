@@ -1,0 +1,2 @@
+# fastdfs_DockerFile
+包含fastdfs和nginx的docker容器的dockerfile
